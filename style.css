@@ -1,0 +1,19 @@
+h1{
+    color: red !important;
+}
+
+a:link{
+
+}
+
+a:active{
+    
+}
+
+a:hover{
+    background-color: green;
+}
+
+a:visited{
+    color: coral;
+}
