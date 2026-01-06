@@ -1,0 +1,21 @@
+form{
+    background-color: blanchedalmond;
+}
+
+form#login{
+    background-color: aqua;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    border: 2px solid grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+form#login input::placeholder{
+    font-style: italic   ;
+    color: coral;
+}
+
+
+
+
+
